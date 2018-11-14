@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>Jennifer Omena</title>
 <meta charset="UTF-8">
@@ -11,13 +10,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
 <body class="w3-light-grey">
 
-<!-- Page Container -->
+
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
 
-  <!-- The Grid -->
+  
   <div class="w3-row-padding">
   
-    <!-- Left Column -->
+    
     <div class="w3-third">
     
       <div class="w3-white w3-text-grey w3-card-4">
@@ -204,13 +203,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       </div>
 
       
-    <!-- End Right Column -->
+  
     </div>
     
-  <!-- End Grid -->
+
   </div>
   
-  <!-- End Page Container -->
+  
 </div>
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
